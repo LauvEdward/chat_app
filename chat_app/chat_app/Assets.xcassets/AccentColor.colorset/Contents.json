@@ -1,7 +1,36 @@
 {
   "colors" : [
     {
+      "color" : {
+        "platform" : "ios",
+        "reference" : "linkColor"
+      },
+      "display-gamut" : "sRGB",
       "idiom" : "universal"
+    },
+    {
+      "color" : {
+        "platform" : "ios",
+        "reference" : "linkColor"
+      },
+      "display-gamut" : "display-P3",
+      "idiom" : "universal"
+    },
+    {
+      "color" : {
+        "platform" : "ios",
+        "reference" : "linkColor"
+      },
+      "display-gamut" : "sRGB",
+      "idiom" : "iphone"
+    },
+    {
+      "color" : {
+        "platform" : "ios",
+        "reference" : "linkColor"
+      },
+      "display-gamut" : "display-P3",
+      "idiom" : "iphone"
     }
   ],
   "info" : {
